@@ -14,8 +14,9 @@ Data on home page is made responsive.
 
 #### Completed site looks like
 
-<div>
-<a href="/">
-    <img src="ImageGlimps.png" alt="Wisdom Pet ">
-</a>
-</div>
+<img
+src=“ImageGlimps.png”
+raw=true
+alt=“extras”
+style=“margin-right: 10px;”
+/>
