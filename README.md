@@ -14,4 +14,4 @@ Data on home page is made responsive.
 
 #### Completed site looks like
 
-![alt text](https://github.com/[RITESH-Kapse]/[WisdomPetAdoption_DjangoProject]/blob/[master]/ImageGlimps.png?raw=true)
+![alt text](https://github.com/[RITESH-Kapse]/[WisdomPetAdoption_DjangoProject]/[master]/ImageGlimps.png?raw=true)
