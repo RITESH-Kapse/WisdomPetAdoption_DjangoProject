@@ -1,4 +1,6 @@
+{% extends "base.html" %}
 
+{%block content%}
 <div>
 
     <h3>{{pet.name|capfirst}}</h3>
@@ -33,3 +35,5 @@
     <p>{{pet.desciption}}</p>
 
 </div>
+
+{% endblock %}
