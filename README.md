@@ -1,6 +1,7 @@
 # PetAdoption__Django_Project
 
-Exported the pet details and vaccinations data from excel sheet "pet_data.csv" . Seperate script "load_pet_data.py" is attached in the managment folder.
+Exported the pet details and vaccinations data from excel sheet "pet_data.csv" . 
+Seperate script "load_pet_data.py" is attached in the managment folder.
 
 Created two tables and Pet and Vaccine in models.py file.
 
@@ -14,4 +15,5 @@ Data on home page is made responsive.
 
 #### Completed site looks like
 
-![alt text](https://github.com/[RITESH-Kapse]/[WisdomPetAdoption_DjangoProject]/[master]/ImageGlimps.png?raw=true)
+
+![Alt text](https://github.com/RITESH-Kapse/WisdomPetAdoption_DjangoProject/blob/master/ImageGlimps.PNG?raw=true "Title")
