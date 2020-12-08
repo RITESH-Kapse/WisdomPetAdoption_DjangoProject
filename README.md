@@ -14,9 +14,4 @@ Data on home page is made responsive.
 
 #### Completed site looks like
 
-<img
-src=“ImageGlimps.png”
-raw=true
-alt=“extras”
-style=“margin-right: 10px;”
-/>
+![alt text](https://github.com/[RITESH-Kapse]/[WisdomPetAdoption_DjangoProject]/blob/[master]/ImageGlimps.png?raw=true)
