@@ -20,6 +20,3 @@ Data on home page is made responsive.
 
 
 
-Note :
-To add image in github like above use below syntax :
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
